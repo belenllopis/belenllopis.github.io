@@ -83,8 +83,8 @@ author:
   name             : "Belén Llopis"
   avatar           : "foto_enero_2020.png"
   bio              : "PhD Student @ IIE-UPV | Refrigeration equipments and heat pumps"
-  location         : "Valencia, Spain"
-  employer         : "Polytechnic University of Valencia"
+  location         : 
+  employer         : "Polytechnic University of Valencia, Spain"
   pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=ghuJOPYAAAAJ&hl=es"
   email            : "belen.llopis@iie.upv.es"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/belen-llopis/"
+  linkedin         : "belen-llopis"
   orcid            : "https://orcid.org/0000-0003-0238-4231"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/BelenLlopisM"
+  twitter          : "BelenLlopisM"
   vine             :
   weibo            :
   xing             :

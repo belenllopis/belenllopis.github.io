@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Research Lines"
-    url: /year-archive/
+    url: /research-lines/
+
+  - title: "Teaching"
+    url: /teaching/
    
   - title: "Blog Posts"
     url: /year-archive/
