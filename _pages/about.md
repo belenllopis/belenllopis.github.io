@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Polytechnic University of Valencia, in the [Thermal Area of the Institute of Energy Engineering](http://www.iie.upv.es/staff/thermal-area-staff).
+I am a PhD student at the Polytechnic University of Valencia, in the [Thermal Area of the Institute of Energy Engineering](http://www.iie.upv.es/research/thermal-area).
 <br>
-My main area of research is based on the Fault Detection and Diagnosis (FDD) of soft faults in heat pumps and air conditioning systems, but I also do research on the design and optimisation of these equipments and their components.
 <br>
-For computation during my research, I like to use R and Python to analyse data and represent it and I enjoy using LaTeX to write beautiful reports and papers.
+For my doctoral studies, my primary research is focused on the Fault Detection and Diagnosis (FDD) of soft faults in heat pumps and air conditioning systems, but I also work in the development and optimization of refrigeration equipment, heat pumps, and their components.
+<br>
+<br>
+For computation during my research, I like to use R and Python to analyze data and represent it and I enjoy using LaTeX to write nice reports and papers.
+<br>
 <br>
 Feel free to contact me if you want to know more about me!
