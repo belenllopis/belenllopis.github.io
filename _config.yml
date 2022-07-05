@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Belén Llopis"
+title                    : "Belén Llopis-Mengual"
 title_separator          : "-"
-name                     : &name "Belén Llopis"
+name                     : &name "Belén Llopis-Mengual"
 description              : &description "PhD Student @ IIE-UPV | Refrigeration equipments and heat pumps"
 url                      : https://belenllopis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Belén Llopis"
-  avatar           : "foto_enero_2020.png"
-  bio              : "PhD Student @ IIE-UPV \n Refrigeration equipments and heat pumps"
+  name             : "Belén Llopis-Mengual"
+  avatar           : "photo_belen_llopis-mengual.png"
+  bio              : "PhD Student @ IUIIE-UPV \n Refrigeration equipments and heat pumps"
   location         : 
   employer         : "Polytechnic University of Valencia \n Spain"
   pubmed           : 
