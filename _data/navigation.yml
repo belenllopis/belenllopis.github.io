@@ -3,16 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research Lines"
-    url: /research-lines/
-
   - title: "Teaching"
     url: /teaching/
-   
-  - title: "Blog Posts"
-    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
+
   
