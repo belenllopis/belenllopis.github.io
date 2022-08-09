@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Belén Llopis-Mengual"
 title_separator          : "-"
 name                     : &name "Belén Llopis-Mengual"
-description              : &description "PhD Student @ IIE-UPV | Refrigeration equipments and heat pumps"
+description              : &description "PhD Fellow @ IIE-UPV | Refrigeration equipments and heat pumps"
 url                      : https://belenllopis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "belenllopis/academicpages.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "photo_belen_llopis-mengual.png"
   bio              : "PhD Student @ IUIIE-UPV \n Refrigeration equipments and heat pumps"
   location         : 
-  employer         : "Polytechnic University of Valencia \n Spain"
+  employer         : "Polytechnic University of Valencia"
   pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=ghuJOPYAAAAJ&hl=es"
   email            : "belen.llopis@iie.upv.es"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Madrid # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
